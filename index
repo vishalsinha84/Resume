@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vishal Sinha, Solution Architect</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Vishal Sinha!</h1>
+				<p>I'm a Solution Architect with around 12 years of Experience !</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:<placeholder>@gmail.com">vishalsinha84@gmail.com</a></li>
+        		<li><a href="https://github.com/vishalsinha84">github.com/vishalsinha84</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
