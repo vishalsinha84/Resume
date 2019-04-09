@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+p<!DOCTYPE html>
 <html>
 	<head>
-		<title>Vishal Sinha, Solution Architect</title>
+		<title>Vishal Sinha, Developer</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -17,7 +17,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Vishal Sinha!</h1>
-				<p>I'm a Solution Architect with around 12 years of Experience !</p>
+				<p>I'm a Developer with around 12 years of Experience !</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
